@@ -1,0 +1,31 @@
+_repo: Les-etranges-noces-de-Rouletabille_13772
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leroux, Gaston
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '112'
+    url: http://www.gutenberg.org/2009/agents/112
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Leroux
+description: ''
+gutenberg_bookshelf:
+- Detective Fiction
+- FR Littérature
+gutenberg_issued: '2004-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13772'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- !lcsh 'Rouletabille, Joseph (Fictitious character) -- Fiction'
+title: Les etranges noces de Rouletabille
+url: http://www.gutenberg.org/ebooks/13772
